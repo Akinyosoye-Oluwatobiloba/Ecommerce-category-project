@@ -1,2 +1,2 @@
-# Ecmmerce-category-project
+# Ecommerce-category-project
 Laravel project with Livewire
